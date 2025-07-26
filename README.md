@@ -12,20 +12,20 @@ A comprehensive decentralized autonomous organization (DAO) platform built on th
 ## 🌟 Features
 
 ### Core Functionality
-- ** Internet Identity Authentication**: Secure, passwordless authentication using IC's native identity system
-- ** DAO Governance**: Proposal creation, voting mechanisms, and community-driven decision making
-- ** Staking System**: Token staking with rewards and voting power calculation
-- ** Treasury Management**: Decentralized fund management and allocation
-- ** Investment Dashboard**: Real-time portfolio tracking and project analytics
-- ** DAO Launcher**: Create and deploy new DAOs with customizable parameters
+- **Internet Identity Authentication**: Secure, passwordless authentication using IC's native identity system
+- **DAO Governance**: Proposal creation, voting mechanisms, and community-driven decision making
+- **Staking System**: Token staking with rewards and voting power calculation
+- **Treasury Management**: Decentralized fund management and allocation
+- **Investment Dashboard**: Real-time portfolio tracking and project analytics
+- **DAO Launcher**: Create and deploy new DAOs with customizable parameters
 
 ### Frontend Features
-- ** Real-time Updates**: Instant transaction feedback and live data
-- ** Responsive Design**: Mobile-first design with desktop optimization
-- ** Modern UI/UX**: Gradient animations, particle effects, and smooth transitions
-- ** Advanced Filtering**: Search and filter projects by category, status, and more
-- ** Interactive Charts**: Visual portfolio performance and analytics
-- ** Multi-language Support**: Extensible internationalization framework
+- **Real-time Updates**: Instant transaction feedback and live data
+- **Responsive Design**: Mobile-first design with desktop optimization
+- **Modern UI/UX**: Gradient animations, particle effects, and smooth transitions
+- **Advanced Filtering**: Search and filter projects by category, status, and more
+- **Interactive Charts**: Visual portfolio performance and analytics
+- **Multi-language Support**: Extensible internationalization framework
 
 ## 🏗️ Architecture
 
